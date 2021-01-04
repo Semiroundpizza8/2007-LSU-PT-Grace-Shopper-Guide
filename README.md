@@ -11,10 +11,10 @@
 - [🤝 Teamwork Processes](teamwork-processes)
 
 ## 🤝 Teams
-- Mango: Evon Sanders, deCha Sanson, Sophia Dooley, Tyler Harper, Kipp Jennings
-- Banana: Belen Bahmer-Rada, Arman Khalil, Brandon Albright, Cory Boudreaux, Steve Sonnier
-- Apple: Mohammad Hassan, Andrew Furr, Quentin Kinard, Brian Rogers
-- Orange: Jakashia Alexander, Steven Johnson, Kristopher Dandridge, Ryan Le
+  - Mango: Tyler Harper, Brandon Albright, Cory Boudreaux, Sophia Dooley, Kipp Jennings
+  - Banana: deCha Sanson, Arman Khalil, Evon Sanders, Belen Bahmer-Rada
+  - Apple:	Mohammad Hassan, Andrew Furr, Quentin Kinard, Brian Rogers, Steve Sonnier
+  - Orange: Jakashia Alexander, Steven Johnson, Kristopher Dandridge, Ryan Le
 
 ## 📋 To Do - Day 1
   - Briefly Scan the [Workshop](https://learn.fullstackacademy.com/workshop/5ece807ae423f6000461d41e/landing)
